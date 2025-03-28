@@ -88,6 +88,7 @@ Para executar esse projeto siga as instruções abaixo:
 9. **Iniciar o servidor de desenvolvimento:**
     - Inicie o servidor de desenvolvimento do Laravel:
         ```sh
+        npm run dev
         php artisan serve
         ```
 
